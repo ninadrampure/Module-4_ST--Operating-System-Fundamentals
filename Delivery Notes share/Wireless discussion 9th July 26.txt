@@ -1,0 +1,28 @@
+Frequencies:
+2.4 Ghz, 5 Ghz, and 6 Ghz.
+
+Channels:
+Interference due Channel and frequency used.
+2.4 Ghz
+
+Channel available in this frequency:
+There 14 channels available but usable between 1-11.
+1-6-11 do not overlap
+
+IEEE Standards:
+802.11x
+7 wireless standards available.
+802.11be - Wifi 7
+802.11ax - Wifi 6
+802.11ac - Wifi 5
+802.11n	 - Wifi 4
+802.11g	 - Wifi 3
+802.11b	 - Wifi 1
+802.11a	 - Wifi 2
+802.11	 - Wifi
+
+Security Mode:
+WEP- Weak encryption.
+WPA- TKIP RC4 Cipher.
+WPA 2- AES CCMP blockchain cipher.
+WPA 3- AES 
